@@ -12,3 +12,6 @@
 **Favourite tools:**
 - Selenium Webdriver
 - Robot Framework
+
+**Inspires me:**
+[![SELENIUM TUTORIAL](https://www.youtube.com/watch?v=ph3NJm4Z7m4)
