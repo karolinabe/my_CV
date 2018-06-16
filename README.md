@@ -5,7 +5,7 @@
 
 ### About me
 
-**My proffessional interests:**
+**My professional interests:**
 - test automation
 - programming in python
 
